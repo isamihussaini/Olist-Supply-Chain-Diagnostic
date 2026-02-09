@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Olist Supply Chain Risk & Recovery Diagnostic</title>
 </head>
 <body>
 
