@@ -8,5 +8,5 @@ This folder contains the final Power BI deliverables designed for stakeholders t
 * **Regional Risk Map** Drill-down capability to isolate cities like Maceió and São Gonçalo with high bottleneck frequency
 
 * **Files Included**
-*.pbix file for interactive exploration
-*.pdf export for quick executive review
+* .pbix file for interactive exploration
+* .pdf export for quick executive review
